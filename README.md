@@ -5,7 +5,7 @@
 
 - My main developing technologies are:
   - React JS
-    <a href="https://reactjs.org" target="_blank">
+    <a target="_blank" href="https://reactjs.org">
     <img  align="center" src="./assets/reactLogo.png" alt="React logo" width="25px"/>
     </a>
   - JavaScript / TypeScript
