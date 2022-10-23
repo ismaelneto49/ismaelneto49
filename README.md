@@ -41,6 +41,5 @@
   </li>
   </ul>
 </div>
-<!--![logo](/assets/image.png "Image")>
--->
+<!--![logo](/assets/image.png "Image")>-->
 </div>
