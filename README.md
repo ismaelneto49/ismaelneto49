@@ -1,7 +1,7 @@
 ### Hello there! 👋
 
 <div style="text-align: justify">
-  Hi! My name is Ismael Neto, I'm 19 years old and a software developer from Brazil. I'm an Informatics Technician by "IFPB - Esperança PB", and currently a graduate student of Computer Science at "UFCG - Universidade Federal de Campina Grande". I also work at UFCG, at the Information Systems Lab "LSI", as a software tester.
+  Hi! My name is Ismael Neto, I'm 22 years old and a software developer from Brazil. I'm an Informatics Technician by "IFPB - Esperança PB", and currently a graduate student of Computer Science at "UFCG - Universidade Federal de Campina Grande". I also work at UFCG, at the Information Systems Lab "LSI", as a software tester.
   <br></br>
   <b> My main developing technologies are: </b>
   <ul>
