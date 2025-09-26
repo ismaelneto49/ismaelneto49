@@ -4,6 +4,11 @@ Hi! My name is **Ismael Neto**, I'm 22 years old and a software developer from B
 I'm an Informatics Technician by **IFPB**, and currently a Computer Science undergraduate at **UFCG – Universidade Federal de Campina Grande**.  
 I also work at the **Information Systems Lab (LSI)** at UFCG as a software quality analyst.
 
+I have hands-on experience with **fullstack development**, **software testing**, and **automation**.  
+My work often involves building reliable systems, ensuring code quality, and streamlining processes through scripting and QA tools.
+
+I have knowledge of **concurrent programming**, **distributed systems**, and **cybersecurity**, and I am particularly interested in further exploring these topics.
+
 ---
 
 ### Tech Stack
@@ -33,7 +38,7 @@ I also work at the **Information Systems Lab (LSI)** at UFCG as a software quali
 
 ---
 
-### Contact Me
+### Contact Me!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge)](https://www.linkedin.com/in/ismael-neto-687a5424b/)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=fff&style=for-the-badge)](mailto:ismaelneto49@gmail.com)
